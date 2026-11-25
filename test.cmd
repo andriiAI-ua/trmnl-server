@@ -1,0 +1,1 @@
+curl -H "ID: dummy" -H "Access-Token: xxx" http://localhost:5258/api/display

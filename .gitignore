@@ -1,0 +1,16 @@
+bin/
+obj/
+.last_build
+*.tar.gz
+.vscode/
+Data/
+screens/
+.vs
+*.user
+*.suo
+VERSION
+CHANGES.diff
+COMMIT_MSG.txt
+
+# Local names and secrets for tools/export-public.py
+.public-deny

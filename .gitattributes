@@ -1,0 +1,6 @@
+# Shell scripts run on Linux. Keep LF also in the Windows working copy,
+# so that core.autocrlf does not change them to CRLF.
+*.sh text eol=lf
+
+# Firmware images (wwwroot/firmware) are binary. Do not change them.
+*.bin binary

@@ -1,0 +1,6 @@
+@trmnl_server_HostAddress = http://localhost:5258
+
+GET {{trmnl_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
